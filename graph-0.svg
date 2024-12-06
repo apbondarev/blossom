@@ -1,0 +1,59 @@
+<svg class="prefix__graphCanvas" width="415.006" height="237.64" xmlns="http://www.w3.org/2000/svg">
+    <path stroke="#000" stroke-width="2"
+        d="M140.691 150.6L17.001 68.2
+        M140.691 150.6l130.915 70.04
+        M271.606 220.64L140.691 150.6
+        M140.691 150.6l121.886-32.96
+        M262.577 117.64L140.691 150.6
+        M271.606 220.64l-9.029-103
+        M262.577 117.64l9.03 103
+        M271.606 220.64l126.4-70.04
+        M398.006 150.6l-126.4 70.04
+        M262.577 117.64l135.43 32.96
+        M398.006 150.6l-135.429-32.96
+        M140.691 150.6l31.6-123.6
+        M172.291 27l-31.6 123.6
+        M172.291 27l225.715 16.48
+        M398.006 43.48L172.291 27
+        M398.006 150.6V43.48
+        M398.006 43.48V150.6" />
+    <!-- <path stroke="red" stroke-width="4" d="M140.691 150.6L17.001 68.2" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M271.606 220.64L140.691 150.6" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M140.691 150.6l121.886-32.96" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M271.606 220.64l-9.029-103" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M271.606 220.64l126.4-70.04" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M262.577 117.64l135.43 32.96" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M140.691 150.6l31.6-123.6" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M172.291 27l225.715 16.48" /> -->
+    <!-- <path stroke="red" stroke-width="4" d="M398.006 150.6V43.48" /> -->
+    <g>
+        <g class="prefix__node" transform="translate(17 68.2)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">0</text>
+        </g>
+        <g class="prefix__node" transform="translate(140.691 150.6)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">1</text>
+        </g>
+        <g class="prefix__node" transform="translate(271.606 220.64)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">2</text>
+        </g>
+        <g class="prefix__node" transform="translate(262.577 117.64)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">3</text>
+        </g>
+        <g class="prefix__node" transform="translate(398.006 150.6)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">4</text>
+        </g>
+        <g class="prefix__node" transform="translate(172.291 27)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">5</text>
+        </g>
+        <g class="prefix__node" transform="translate(398.006 43.48)">
+            <circle r="15" fill="#98c6ea" stroke-width="2" stroke="#0065bd" /><text
+                class="prefix__label prefix__unselectable" dy=".35em" text-anchor="middle">6</text>
+        </g>
+    </g>
+</svg>
